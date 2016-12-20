@@ -22,8 +22,8 @@ class ViewController: UIViewController {
     var queueBlack = [Int] ()
     var queueEven = [Int] ()
     var queueOdd = [Int] ()
-    var number = 0
     var start = Int()
+    var number = 0
     var indicator = 1;
     var winningMoneySmall = 0
     var winningMoneyBig = 0
